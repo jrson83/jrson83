@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning [Nano JSX](https://github.com/nanojsx/nano)
 - 📫 Nothing here: https://jrson.de
 
-## Projects
+## Project
 
 ### MediabookDB.de
 https://mediabookdb.de
+
+## Fan of
 
 ### Checkout Nano JSX
 https://github.com/nanojsx/nano
