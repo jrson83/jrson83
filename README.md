@@ -5,7 +5,7 @@
 
 [![jrson83's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrson83&show_icons=true)](https://github.com/jrson83)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrson83)](https://github.com/jrson83)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrson83&layout=compact)](https://github.com/jrson83)
 
 ## Project
 
