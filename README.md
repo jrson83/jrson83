@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning [Nano JSX](https://github.com/nanojsx/nano)
 - 📫 Nothing here: https://jrson.de
 
+[![jrson83's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrson83&show_icons=true)](https://github.com/jrson83)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrson83)](https://github.com/jrson83)
+
 ## Project
 
 ### MediabookDB.de
