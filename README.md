@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Recent blog posts
+## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Website Speed and Performance Optimization Part 1: Metrics and Tools](https://jrson.me/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/)
 - [How to Format and Lint code in 2023](https://jrson.me/blog/how-to-format-and-lint-code-in-2023/)
